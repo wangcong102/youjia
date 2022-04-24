@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@vue/cli-plugin-eslint": "^4.0.4",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "js-md5": "^0.7.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.25.4"
+  }
+}

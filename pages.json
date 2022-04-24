@@ -1,0 +1,357 @@
+{
+  "pages": [{
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 300,
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录优家",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/reg/reg",
+      "style": {
+        "navigationBarTitleText": "注册",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/forgetPwd/forgetPwd",
+      "style": {
+        "navigationBarTitleText": "忘记密码",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/my/my",
+      "style": {
+        "navigationBarTitleText": "勘察",
+        "onReachBottomDistance": 300,
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/survey/survey",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": 300,
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/houseDetails/houseDetails",
+      "style": {
+        "navigationBarTitleText": "房屋详情",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/release/release",
+      "style": {
+        "navigationBarTitleText": "发布房源",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/updateHouse/updateHouse",
+      "style": {
+        "navigationBarTitleText": "更新房源",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/bills/bills",
+      "style": {
+        "navigationBarTitleText": "更新房源",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/admin/admin",
+      "style": {
+        "navigationBarTitleText": "管理员",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/allStaff/allStaff",
+      "style": {
+        "navigationBarTitleText": "员工资料",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/updateStaff/updateStaff",
+      "style": {
+        "navigationBarTitleText": "修改资料",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/favorites/favorites",
+      "style": {
+        "navigationBarTitleText": "收藏夹",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/userInfo/userInfo",
+      "style": {
+        "navigationBarTitleText": "个人资料",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/set/set",
+      "style": {
+        "navigationBarTitleText": "账户设置",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/notice/notice",
+      "style": {
+        "navigationBarTitleText": "账户设置",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/message/message",
+      "style": {
+        "navigationBarTitleText": "消息中心",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/test/test",
+      "style": {
+        "navigationBarTitleText": "测试",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/billRank/billRank",
+      "style": {
+        "navigationBarTitleText": "流水排行",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/checkBill/checkBill",
+      "style": {
+        "navigationBarTitleText": "审核签约",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/manageHouse/manageHouse",
+      "style": {
+        "navigationBarTitleText": "管理房源",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/allotHouse/allotHouse",
+      "style": {
+        "navigationBarTitleText": "精选房源",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/about/about",
+      "style": {
+        "navigationBarTitleText": "关于",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/staffBills/staffBills",
+      "style": {
+        "navigationBarTitleText": "个人流水",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/authManage/authManage",
+      "style": {
+        "navigationBarTitleText": "授权管理",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/applyJob/applyJob",
+      "style": {
+        "navigationBarTitleText": "入职申请",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/housePartition/housePartition",
+      "style": {
+        "navigationBarTitleText": "楼栋分区",
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/webview/webview",
+      "navigationStyle": "custom",
+      "style": {
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/houseFeedback/houseFeedback",
+      "navigationStyle": "custom",
+      "style": {
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    },
+    {
+      "path": "pages/newIndex/newIndex",
+      "navigationStyle": "custom",
+      "style": {
+        "app-plus": {
+          "bounce": "vertical"
+        }
+      }
+    }
+  ],
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "tui-(.*)": "@/components/thorui/tui-$1/tui-$1.vue"
+    }
+  },
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "lint:eslint": "eslint --fix --ext \"src/**/*.{vue,less,css,scss}\"",
+    "lint:prettier": "prettier --write --loglevel warn \"src/**/*.{js,json,tsx,css,less,scss,vue,html,md}\"",
+    "lint:stylelint": "stylelint --fix \"**/*.{vue,less,postcss,css,scss}\" --cache --cache-location node_modules/.cache/stylelint/"
+
+  },
+  "globalStyle": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "优家",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#fafafa",
+    "backgroundColorTop": "#fafafa",
+    "backgroundColorBottom": "#fafafa",
+    "navigationStyle": "custom",
+    "app-plus": {
+      "titleView": false
+    }
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#0081ff",
+    "backgroundColor": "#FFFFFF",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icon/index.png",
+        "selectedIconPath": "static/icon/index_active.png"
+      },
+      {
+        "pagePath": "pages/survey/survey",
+        "text": "勘察",
+        "iconPath": "static/icon/survey.png",
+        "selectedIconPath": "static/icon/survey_active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/icon/my.png",
+        "selectedIconPath": "static/icon/my_active.png"
+      }
+    ]
+  },
+  "condition": {
+    "current": 0,
+    "list": [{
+        "name": "房源详情",
+        "pathName": "pages/houseDetails/houseDetails",
+        "query": "houseId=05053eb943484b0c95cf3397b7a0be35"
+      },
+      {
+        "name": "修改员工资料",
+        "pathName": "pages/updateStaff/updateStaff",
+        "query": "staff_id=04aa829b-02aa-4b28-85b8-0e113c37c61a"
+      },
+      {
+        "name": "房源详情",
+        "pathName": "pages/houseDetails/houseDetails",
+        "query": "houseId=05053eb943484b0c95cf3397b7a0be35"
+      }
+    ]
+  }
+}
